@@ -1,0 +1,15 @@
+.home-container{
+    display: flex;
+    background-color: hsla(219,48%,8%,1);
+    color: #fff;
+}
+::-webkit-scrollbar{
+    width: 10px;
+    border-radius: 50%;
+}
+::-webkit-scrollbar-track{
+    background-color: #f1f1f1;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(179,179,179);
+}

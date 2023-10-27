@@ -1,0 +1,17 @@
+.sidebarFriendList{
+    background-color: hsla(219,32%,12%,1);
+    padding: 20px;
+    border-radius: 20px;
+}
+.sidebarFriend{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.siebarFriendimg{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
